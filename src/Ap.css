@@ -1,0 +1,9 @@
+.App{
+    margin: 0 auto;
+    width: 800px;
+    height: 900px;
+    position: relative;
+    border-top: #40C1FD solid 6px ;
+    border-left: #40C1FD solid 6px;
+    border-right: #40C1FD solid 6px;
+}
